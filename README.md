@@ -1,9 +1,7 @@
 # QR Scanner
-QR Scanner is an extension from this project https://github.com/juliuscanute/qr_code_scanner.git created by juliansteenbakker
-This extension adds an animation to the overlay scanner
+QR Scanner is an extension from this project https://github.com/juliuscanute/qr_code_scanner.git created by juliansteenbakker.
 
-[![pub package](https://img.shields.io/pub/v/qr_scanner?include_prereleases)](https://pub.dartlang.org/packages/qr_scanner)
-[![Join the chat](https://img.shields.io/discord/829004904600961054)](https://discord.gg/aZujk84f6V)
+This extension adds an animation to the overlay scanner
 
 A QR scanner that works on both iOS and Android by natively embedding the platform view within Flutter. The integration with Flutter is seamless, much better than jumping into a native Activity or a ViewController to perform the scan.
 
